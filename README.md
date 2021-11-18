@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zanaliksl&label=Profile%20views&color=0e75b6&style=flat" alt="zanaliksl" /> </p>
 
-- 🔭 I’m currently working on [Meus projetos](https://github.com/ZanalikSL/projetos)
+- You can see my work in the pinned section below. In it I have a folder with only learning projects (projetos) and some others that cover several Front-end areas. Most have a Readme containing more information about it. Any doubts, you can ask me any time. 
 
 - 🌱 I’m currently learning **Next.js**
 
