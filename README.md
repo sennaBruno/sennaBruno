@@ -23,4 +23,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zanaliksl&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="zanaliksl" />
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=zanaliksl&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="zanaliksl" /></p>
+&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=zanaliksl&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="zanaliksl" />
