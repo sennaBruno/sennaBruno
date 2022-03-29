@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [tabnews.com.br (Private for the moment)](https://github.com/filipedeschamps/tabnews.com.br)
+- 👯 I’m currently working at Lexir team building apps in React and Next.
 
 - 💬 Ask me about **React**
 
