@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I am Bruno Senna</h1>
-<h3 align="center">Dev Front-End / React.js.</h3>
+<h3 align="center">Developer / React.js / Next.js / Angular / Nest.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zanaliksl&label=Profile%20views&color=0e75b6&style=flat" alt="zanaliksl" /> </p>
 
 - You can see my work in the pinned section below. In it I have a folder with only learning projects (projetos) and some others that cover several Front-end areas. Most have a Readme containing more information about it. Any doubts, feel free to ask. 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning more about **Javascript**
 
-- 👯 I’m currently working at Lexir team building apps in React and Next.
+- 👯 I’m currently working at Xpert team building apps in Angular and Nest.js.
 
 - 💬 Ask me about **React**
 
