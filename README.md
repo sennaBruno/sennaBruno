@@ -1,69 +1,84 @@
-<h1 align="center">Hello 👋, I am Bruno Senna</h1>
-<h3 align="center">Developer / React.js / Next.js / Angular / Nest.js.</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sennaBruno.sennaBruno&left_color=dimgray&right_color=0079fa" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zanaliksl&label=Profile%20views&color=0e75b6&style=flat" alt="zanaliksl" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0079FA&center=true&vCenter=true&random=false&width=500&lines=Bruno+Senna;Software+Engineer;Building+for+the+web" alt="Typing SVG" />
+  </a>
+</h1>
 
-- You can see my work in the pinned section below. In it I have a folder with only learning projects (projetos) and some others that cover several Front-end areas. Most have a Readme containing more information about it. Any doubts, feel free to ask.
+<h3 align="center">Software Engineer from Recife, Brazil</h3>
 
-- 🌱 I’m currently learning more about **GO**
+<br/>
 
-- 👯 I’m currently working at **Compass UOL** as a Front-end Developer, providing consultancy and building solutions using **Angular, React, and TypeScript**.
+<div align="center">
 
-- 📫 How to reach me **sennasantosbruno@gmail.com**
+Software Engineer with 5+ years of experience building scalable web applications. Currently at **Onbench**, crafting high-performance solutions with modern JavaScript/TypeScript stacks. Bachelor's degree from **UFPE** (Universidade Federal de Pernambuco).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/bruno-leonardo-senna" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-leonardo-senna" height="30" width="40" />
-  </a>
-</p>
+Passionate about clean architecture, great user experiences, and turning complex problems into simple, elegant interfaces.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zanaliksl&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="zanaliksl" /> -->
+<br/>
 
-&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=sennaBruno&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="zanaliksl" />
+<div align="center">
+  <a href="mailto:sennasantosbruno@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/bruno-leonardo-senna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+  <h4>Frontend</h4>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <h4>Backend & Infrastructure</h4>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+  <h4>Tools</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sennaBruno&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Bruno's GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=sennaBruno&theme=tokyonight&hide_border=true" alt="Bruno's Streak Stats" />
+  <br/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennaBruno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h3>Let's connect and build something great together.</h3>
+</div>
