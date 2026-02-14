@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** | Full Stack Specialist | Brazil (Open to Remote)
 
-8+ years building high-performance web applications. Specialist in legacy system modernization and Micro-frontends architecture. Track record of optimizing Time-to-Interactive (TTI) in high-traffic environments.
+8+ years building high-performance web applications. Specialist in legacy system modernization and Micro-frontends architecture.
 
 ---
 
