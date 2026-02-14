@@ -1,18 +1,16 @@
 # Bruno Senna
 
-**Software Engineer** based in Recife, Brazil.
+**Senior Software Engineer** | Full Stack Specialist | Brazil (Open to Remote)
 
-8+ years building web applications. Currently at [Onbench](https://onbench.io). Previously at Hub Xp, Compass UOL, Xpert, and Lexir.
-
-Bachelor's degree from [UFPE](https://www.ufpe.br/) (Universidade Federal de Pernambuco).
+8+ years building high-performance web applications. Specialist in legacy system modernization and Micro-frontends architecture. Track record of optimizing Time-to-Interactive (TTI) in high-traffic environments.
 
 ---
 
-### Languages
+### Core Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=512BD4)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 
 ### Frontend
 
@@ -21,22 +19,20 @@ Bachelor's degree from [UFPE](https://www.ufpe.br/) (Universidade Federal de Per
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind-CSS)
 
-### Backend & Cloud
+### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS&logoColor=E0234E)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=512BD4)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
+
+### DevOps & Quality
+
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
+![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=Playwright)
+![Datadog](https://img.shields.io/badge/-Datadog-000?&logo=Datadog&logoColor=632CA6)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 ---
 
