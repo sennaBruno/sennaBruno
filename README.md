@@ -2,7 +2,9 @@
 
 **Senior Software Engineer** | Full Stack Specialist | Brazil (Open to Remote)
 
-8+ years building high-performance web applications. Specialist in legacy system modernization and Micro-frontends architecture. Track record of optimizing Time-to-Interactive (TTI) in high-traffic environments.
+> I modernize legacy systems at work and build my own products after hours. Turns out I just really like building things.
+
+8 years in web development. Most of that time spent untangling legacy codebases and building micro-frontend architectures.
 
 ---
 
@@ -40,7 +42,7 @@
 
 **Alinhou** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
 
-Scheduling SaaS with WhatsApp integration for mobile service professionals. Automated reminders, public booking pages, client management, and payment integration.
+Scheduling platform for barbers, beauty pros, and other mobile professionals. Clients book through a public page, get WhatsApp reminders, and pay online.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
@@ -51,7 +53,7 @@ Scheduling SaaS with WhatsApp integration for mobile service professionals. Auto
 
 **Bumbi** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
 
-Screen-triggered reminder app for people who forget. Shows your pending tasks every time you unlock your phone — no scheduled time needed. Built for ADHD brains and busy lives.
+A reminder app that shows your tasks every time you unlock your phone. No alarm, no scheduled time. If you keep forgetting things, this one's for you.
 
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
@@ -59,6 +61,14 @@ Screen-triggered reminder app for people who forget. Shows your pending tasks ev
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
 ---
+
+### Current Focus
+
+Getting Alinhou to its first paying customers and preparing Bumbi for the Play Store.
+
+---
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/sennaBruno)
 
 <a href="https://github.com/sennaBruno">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sennaBruno&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!--
