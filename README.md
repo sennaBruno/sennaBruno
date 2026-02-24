@@ -68,7 +68,5 @@ Getting Alinhou to its first paying customers and preparing Bumbi for the Play S
 
 ---
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/sennaBruno)
-
 [![LinkedIn](https://img.shields.io/badge/-Bruno_Senna-0077B5?&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/bruno-leonardo-senna)
 [![Email](https://img.shields.io/badge/-sennasantosbruno@gmail.com-D14836?&logo=Gmail&logoColor=white)](mailto:sennasantosbruno@gmail.com)
