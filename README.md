@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** | Full Stack Specialist | Brazil (Open to Remote)
 
-8+ years building high-performance web applications. Specialist in legacy system modernization and Micro-frontends architecture.
+8+ years building high-performance web applications. Specialist in legacy system modernization and Micro-frontends architecture. Track record of optimizing Time-to-Interactive (TTI) in high-traffic environments.
 
 ---
 
@@ -33,6 +33,30 @@
 ![Datadog](https://img.shields.io/badge/-Datadog-000?&logo=Datadog&logoColor=632CA6)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+
+---
+
+### Currently Building
+
+**Alinhou** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
+
+Scheduling SaaS with WhatsApp integration for mobile service professionals. Automated reminders, public booking pages, client management, and payment integration.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?&logo=WhatsApp)
+
+**Bumbi** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
+
+Screen-triggered reminder app for people who forget. Shows your pending tasks every time you unlock your phone — no scheduled time needed. Built for ADHD brains and busy lives.
+
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
 ---
 
