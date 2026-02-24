@@ -40,18 +40,25 @@
 
 ### Currently Building
 
-**Alinhou** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
+**[Alinhou](https://alinhou.com.br)** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
 
 Scheduling platform for barbers, beauty pros, and other mobile professionals. Clients book through a public page, get WhatsApp reminders, and pay online.
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind-CSS)
 ![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=Stripe&logoColor=635BFF)
+![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=Playwright)
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?&logo=WhatsApp)
 
-**Bumbi** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
+**[Bumbi](https://bumbi.app)** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
 
 A reminder app that shows your tasks every time you unlock your phone. No alarm, no scheduled time. If you keep forgetting things, this one's for you.
 
@@ -59,6 +66,8 @@ A reminder app that shows your tasks every time you unlock your phone. No alarm,
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=React)
+![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
 
 ---
 
