@@ -40,7 +40,7 @@
 
 ### Currently Building
 
-**[Alinhou](https://alinhou.com.br)** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
+**[Alinhou](https://alinhou.com.br)** 
 
 Scheduling platform for barbers, beauty pros, and other mobile professionals. Clients book through a public page, get WhatsApp reminders, and pay online.
 
@@ -58,7 +58,7 @@ Scheduling platform for barbers, beauty pros, and other mobile professionals. Cl
 ![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=Playwright)
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?&logo=WhatsApp)
 
-**[Bumbi](https://bumbi.app)** ![Closed Source](https://img.shields.io/badge/-Closed_Source-555)
+**[Bumbi](https://bumbi.app)** 
 
 A reminder app that shows your tasks every time you unlock your phone. No alarm, no scheduled time. If you keep forgetting things, this one's for you.
 
